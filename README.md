@@ -14,6 +14,7 @@ Docker must be installed on the system to be able to run locally.
 2) Extract the zip files
 3) Open the project folder in any terminal
 4) Make sure ./client ./server and docker-compose.yml should be visible from current folder
-5) Run Command
+5) Run Command (site will be live on localhost:3000) IMPORTANT!
 ```bash
 docker-compose up
+
