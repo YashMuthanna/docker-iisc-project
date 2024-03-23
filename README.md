@@ -1,11 +1,11 @@
-#PROJECT SUBMISSION
-##Yash Muthanna Nellamakada
+# PROJECT SUBMISSION
+## Yash Muthanna Nellamakada
 
 GOAL: Develop a web-based application that enables users to upload transportation-related images (such as traffic camera images) and perform object detection on those images
 
 Project has been built using React for the frontend, Flask has been used to build the API. YOLOv8 from the ultralytics package has been used as a pre-trained model for the object detection. Packaged the web application using Docker for easy deployment. 
 
-##STEPS TO RUN 
+## STEPS TO RUN 
 Refer to demo_video.mp4
 
 Docker must be installed on the system to be able to run locally. 
